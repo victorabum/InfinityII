@@ -1,0 +1,7 @@
+﻿  Print.cpp
+d:\documentos\doutorado\metaheuristic\infinity ii\print.cpp(31): warning C4101: 'j': unreferenced local variable
+d:\documentos\doutorado\metaheuristic\infinity ii\print.cpp(31): warning C4101: 'i': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  Infinity.vcxproj -> D:\Documentos\Doutorado\Metaheuristic\Infinity II\Infinity\Debug\Infinity.exe
+  Infinity.vcxproj -> D:\Documentos\Doutorado\Metaheuristic\Infinity II\Infinity\Debug\Infinity.pdb (Partial PDB)
